@@ -1,5 +1,5 @@
 {
-  "name": "vite-vanilla-ts-template",
+  "name": "vite-preact-ts-template",
   "private": true,
   "version": "1.0.0-alpha",
   "type": "module",
@@ -8,15 +8,20 @@
     "dev": "vite",
     "lint": "eslint --ignore-path .gitignore .",
     "lint:fix": "npm run lint -- --fix",
+    "lint:tsc": "tsc --noEmit",
     "postinstall": "husky install",
     "preview": "vite preview",
     "test": "jest --passWithNoTests",
     "test:ci": "npm test -- --ci --coverage --colors",
     "test:watch": "npm test -- --watch"
   },
+  "dependencies": {
+    "preact": "^10.16.0"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-conventional": "^17.7.0",
+    "@preact/preset-vite": "^2.5.0",
     "@testing-library/dom": "^9.3.1",
     "@testing-library/jest-dom": "^6.1.2",
     "@testing-library/user-event": "^14.4.3",

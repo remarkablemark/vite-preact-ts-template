@@ -1,17 +1,16 @@
-# vite-vanilla-ts-template
+# vite-preact-ts-template
 
-[![build](https://github.com/remarkablemark/vite-vanilla-ts-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/vite-vanilla-ts-template/actions/workflows/build.yml)
-[![codecov](https://codecov.io/gh/remarkablemark/vite-vanilla-ts-template/graph/badge.svg?token=PwZ4954GBH)](https://codecov.io/gh/remarkablemark/vite-vanilla-ts-template)
+[![build](https://github.com/remarkablemark/vite-preact-ts-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/vite-preact-ts-template/actions/workflows/build.yml)
 
-Vite `vanilla-ts` template.
+Vite `preact-ts` template.
 
 ## Install
 
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/vite-vanilla-ts-template.git
-cd vite-vanilla-ts-template
+git clone https://github.com/remarkablemark/vite-preact-ts-template.git
+cd vite-preact-ts-template
 ```
 
 Install the dependencies:
