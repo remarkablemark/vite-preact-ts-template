@@ -49,10 +49,6 @@ Your app is ready to be deployed!
 
 Runs ESLint
 
-### `npm test`
-
-Runs Jest tests.
-
 ## License
 
 [MIT](LICENSE)
