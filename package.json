@@ -13,7 +13,7 @@
     "start": "vite"
   },
   "dependencies": {
-    "preact": "^10.20.0"
+    "preact": "^10.20.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
