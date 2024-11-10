@@ -2,7 +2,7 @@
 
 [![build](https://github.com/remarkablemark/vite-preact-ts-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/vite-preact-ts-template/actions/workflows/build.yml)
 
-Vite `preact-ts` template.
+Vite Preact TypeScript template.
 
 ## Install
 
