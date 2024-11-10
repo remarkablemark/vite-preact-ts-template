@@ -10,7 +10,7 @@
     "lint:tsc": "tsc --noEmit",
     "prepare": "husky",
     "preview": "vite preview",
-    "start": "vite"
+    "start": "vite --open"
   },
   "dependencies": {
     "preact": "10.24.3"
