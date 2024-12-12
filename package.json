@@ -13,7 +13,7 @@
     "start": "vite --open"
   },
   "dependencies": {
-    "preact": "10.25.1"
+    "preact": "10.25.2"
   },
   "devDependencies": {
     "@commitlint/cli": "19.6.0",
